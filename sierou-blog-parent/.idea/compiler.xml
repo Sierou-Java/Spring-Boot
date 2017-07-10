@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sierou-blog" />
+        <module name="sierou-blog-admin" />
+        <module name="sierou-blog-common" />
+        <module name="sierou-blog-common-mapper" />
+        <module name="sierou-blog-pojo" />
+        <module name="sierou-blog-service-admin" />
+        <module name="sierou-blog-service-admin-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sierou-blog" target="1.8" />
+      <module name="sierou-blog-admin" target="1.8" />
+      <module name="sierou-blog-common" target="1.8" />
+      <module name="sierou-blog-common-mapper" target="1.8" />
+      <module name="sierou-blog-parent" target="1.8" />
+      <module name="sierou-blog-pojo" target="1.8" />
+      <module name="sierou-blog-service-admin" target="1.8" />
+      <module name="sierou-blog-service-admin-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

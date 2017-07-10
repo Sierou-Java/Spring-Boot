@@ -1,0 +1,13 @@
+${AnsiColor.BRIGHT_GREEN}
+
+  ____                U _____ u   ____    U  ___ u   _   _
+ / __"| u      ___    \| ___"|/U |  _"\ u  \/"_ \/U |"|u| |
+<\___ \/      |_"_|    |  _|"   \| |_) |/  | | | | \| |\| |
+ u___) |       | |     | |___    |  _ <.-,_| |_| |  | |_| |
+ |____/>>    U/| |\u   |_____|   |_| \_\\_)-\___/  <<\___/
+  )(  (__).-,_|___|_,-.<<   >>   //   \\_    \\   (__) )(
+ (__)      \_)-' '-(_/(__) (__) (__)  (__)  (__)      (__)
+
+${AnsiColor.BLACK}
+Application Version: ${application.version}${application.formatted-version}
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
